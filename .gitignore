@@ -75,3 +75,19 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Unreal Engine
+StarterContent/
+Saved/
+Binaries/
+Build/
+Debug/
+Intermediate/
+DerivedDataCache/
+UnrealHeaderTool/
+UnrealPak/
+obj/
+*.VC.opendb
+*.opensdf
+*.sdf
+*.suo
